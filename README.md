@@ -1,6 +1,6 @@
 
 <h1 align="center">Merhaba 👋, ben Alen Kurt</h1>
-<h3 align="center">Mehmet Akif Ersoy Üniversitesi Bilişim Sistemleri ve Teknolojileri bölümü 4. sınıf öğrencisiyim. </h3>
+<h3 align="center">Mehmet Akif Ersoy Üniversitesi Bilişim Sistemleri ve Teknolojileri Bölümü 4. sınıf öğrencisiyim. </h3>
 
 - 🔭 Şu anda **Yılan Oyunu** üzerinde çalışıyorum
 
